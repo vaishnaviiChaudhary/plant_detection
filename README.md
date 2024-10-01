@@ -1,4 +1,4 @@
-#ROSPL LAB PART 2
+# ROSPL LAB PART 2
 # Cropify - Plant Disease Detection
 Cropify, our innovative web-app utilizing machine learning, addresses the global threat posed by plant diseases to crop health and agricultural productivity. Traditional manual inspection methods are time-consuming and prone to errors.
 In response, machine learning algorithms automate the detection process by analyzing diverse imaging data, including leaf and hyperspectral images, with remarkable accuracy. Our project aims to harness this technology to develop a dependable system for early disease diagnosis and management. By
