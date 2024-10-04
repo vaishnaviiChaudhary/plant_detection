@@ -81,7 +81,7 @@ elif(app_mode=="Fertilizers"):
 
 -> Seaweed: Seaweed contains trace minerals and growth hormones beneficial to plants.
 
--> Banana peels: Rich in potassium, banana peels can be added to fertilizer mixtures.
+-> Banana peels: Rich in potassium, banana peels can be added to fertilizer mixtures, therefore improving the growth of plant.
 
 -> Epsom salt: Provides magnesium, which is essential for plant growth.
 
