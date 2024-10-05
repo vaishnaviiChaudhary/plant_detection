@@ -81,16 +81,16 @@ elif(app_mode=="Fertilizers"):
 
 -> Seaweed: Seaweed contains trace minerals and growth hormones beneficial to plants.
 
--> Banana peels: Rich in potassium, banana peels can be added to fertilizer mixtures.
+-> Banana peels: Rich in potassium, banana peels can be added to fertilizer mixtures, therefore improving the growth of plant.
 
 -> Epsom salt: Provides magnesium, which is essential for plant growth.
 
 -> Fish emulsion: Made from fish waste, this is a rich source of nitrogen and other nutrients.
 
--> Molasses: Contains sugars and micronutrients, and can stimulate microbial activity in the soil.
+-> Molasses: Contains sugars and micro-nutrients, and can stimulate microbial activity in the soil.
 
 
-3) Choose a Recipe: Based on the needs of your plants and the ingredients you have available, select a recipe for your homemade fertilizer. There are many recipes available online, or you can experiment to find what works best for your plants.
+3) Choose a Recipe: Based on the needs of your plants and the ingredients you have available, select a recipe for your homemade fertilizer. There are many recipes available on the net, or you can experiment to find what works best for your plants.
 
 4) Prepare the Fertilizer: Once you've chosen a recipe, mix the ingredients together thoroughly. Depending on the recipe, you may need to blend, shred, or crush the ingredients to create a uniform mixture.
 
